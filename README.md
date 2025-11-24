@@ -11,16 +11,16 @@ This course provides an in-depth exploration of advanced Python programming, aim
 
 By the end of the course, students will be able to:
 
-- Write advanced object-oriented code (inheritance, polymorphism, MRO, abstract classes)
+- Write advanced object-oriented code
 - Use advanced Python features such as properties, metaclasses, iterators, generators, and context managers
 - Apply creational, structural, and behavioral design patterns
-- Build GUI applications with Tkinter
-- Implement concurrent programs using threading and multiprocessing, and understand the GIL
-- Create asynchronous applications with `asyncio` and Celery (task queues, workers, priority queues, scheduling)
+- Build GUI applications with PyQt
+- Implement concurrent programs using threading and multiprocessing
+- Create asynchronous applications with `asyncio` and Celery
 - Scrape the web using Regex, Requests, and BeautifulSoup
 - Send emails programmatically
 - Work with SQL and NoSQL databases, including designing schemas and performing CRUD operations
-- Use ORMs such as Peewee and SQLAlchemy
+- Use ORMs such as SQLAlchemy
 - Develop web applications using Flask
 - Build APIs using FastAPI, implement JWT authentication, and understand REST vs GraphQL
 
