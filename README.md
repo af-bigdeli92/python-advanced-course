@@ -50,10 +50,10 @@ By the end of the course, students will be able to:
 
 python-advanced-course/
 │
-├── slides/ # PDF lecture slides
-├── code/ # All in-class code examples
-├── exercises/ # Assignments and practice problems
-└── solutions/ # Optional solutions for exercises
+├── slides/ # PDF lecture slides |
+├── code/ # All in-class code examples |
+├── exercises/ # Assignments and practice problems |
+└── solutions/ # Optional solutions for exercises |
 
 
 ---
